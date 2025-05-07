@@ -10,3 +10,8 @@ I added a new header and subheader
 ``` r
 modelo <- lm(y~x, data=db)
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
